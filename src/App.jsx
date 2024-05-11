@@ -90,7 +90,7 @@ function App() {
     },
   ];
 
-  // state for cart
+
   const [cartNo, setCartNo] = useState(0);
 
   return (
