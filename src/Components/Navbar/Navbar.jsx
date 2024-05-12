@@ -4,7 +4,7 @@ function NavBar({ cartNo }) {
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container px-4 px-lg-5">
           <a href="#" className="navbar-brand">
-           Harvest Havens
+          Fresh Feasts
           </a>
           <button
             type="button"
